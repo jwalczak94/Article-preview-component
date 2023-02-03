@@ -172,14 +172,11 @@ body {
   gap: 1rem;
 }
 
-.toggle .socials img {
-  width: 2rem;
-  height: 2rem;
-  margin-right: 1.5rem;
-  transition: 0.5s;
+.socials a {
+  transition: 0.2s;
 }
 
-.toggle .socials a:hover img {
+.socials a:hover {
   transform: translateY(-5px);
 }
 
